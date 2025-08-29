@@ -48,9 +48,3 @@ Answer
 git clone https://github.com/<your-username>/clausewise.git
 cd clausewise
 pip install -r requirements.txt
-
-## 🧪 Troubleshooting
-
-- **No answers returned** → ensure you clicked **Upload and Process** and see the success message  
-- **API errors** → verify your `.env` keys are correct and the venv is active  
-- **Large PDFs** → increase system memory or split files before upload
