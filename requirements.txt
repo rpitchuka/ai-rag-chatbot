@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-groq
+langchain-core
+
+python-dotenv
+
+streamlit
+pymupdf
+pypdf
+
+ipykernel
+
+openai
+tiktoken
+faiss-cpu

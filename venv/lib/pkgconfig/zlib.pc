@@ -1,0 +1,13 @@
+prefix=/Users/rishitapitchuka/Desktop/contract_analyzer/venv
+exec_prefix=/Users/rishitapitchuka/Desktop/contract_analyzer/venv
+libdir=/Users/rishitapitchuka/Desktop/contract_analyzer/venv/lib
+sharedlibdir=/Users/rishitapitchuka/Desktop/contract_analyzer/venv/lib
+includedir=/Users/rishitapitchuka/Desktop/contract_analyzer/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
